@@ -13,9 +13,9 @@
 		<!-- Database connection settings -->
 		<!-- <property name="hibernate.connection.provider_class">com.jolbox.bonecp.provider.BoneCPConnectionProvider</property> -->
 		<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
-		<property name="hibernate.connection.url">jdbc:postgresql://localhost/bphtb</property>
-		<property name="hibernate.connection.username">bphtb</property>
-		<property name="hibernate.connection.password">admindbabphtb</property>
+		<property name="hibernate.connection.url">jdbc:postgresql://***/***</property>
+		<property name="hibernate.connection.username">***</property>
+		<property name="hibernate.connection.password">***</property>
 		<property name="dialect">org.hibernate.dialect.PostgreSQLDialect</property>
 		
 		<!-- 
