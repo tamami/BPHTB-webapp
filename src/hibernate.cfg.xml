@@ -10,10 +10,10 @@
 	<session-factory>
 		<!-- Database connection settings -->
 		<property name="connection.driver_class">oracle.jdbc.driver.OracleDriver</property>
-		<property name="connection.url">jdbc:oracle:thin:PBB/RAHASIAPBB@192.168.2.7:1521/SISMIOP</property>
-		<property name="connection.username">PBB</property>
+		<property name="connection.url">jdbc:oracle:thin:***/***@***.***.***.***:***/***</property>
+		<property name="connection.username">***</property>
 		<property name="dialect">org.hibernate.dialect.OracleDialect</property>
-		<property name="connection.password">RAHASIAPBB</property>
+		<property name="connection.password">***</property>
 		<property name="hibernate.show_sql">false</property>
 		
 		<!-- JDBC connection pool 
